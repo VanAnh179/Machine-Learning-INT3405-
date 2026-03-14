@@ -1,5 +1,15 @@
-# Machine-Learning-INT3405-
-* Blog 3: Linear Regression
-  https://www.notion.so/B-O-C-O-H-C-T-P-B-I-TO-N-D-O-N-GI-NH-B-NG-LINEAR-REGRESSION-321001c683f1805ab911f160849cc553?source=copy_link
-* Blog 10: Logistic Regression
-  https://www.notion.so/B-O-C-O-H-C-T-P-LOGISTIC-REGRESSION-P-D-NG-V-O-B-I-TO-N-D-O-N-X-C-SU-T-M-A-NG-Y-MAI-322001c683f180f4ac0ccd44f49cf376?source=copy_link
+# Machine-Learning-INT3405-24022253-Lê Vân Anh
+---
+## Assignment 1 - Linear Regression & Logistic Regression
+
+### I. Đọc hiểu và implement theo 2 phần:
+* **Part 1: Bài 3 - Linear Regression**
+    * [Link báo cáo Notion](https://www.notion.so/B-O-C-O-H-C-T-P-B-I-TO-N-D-O-N-GI-NH-B-NG-LINEAR-REGRESSION-321001c683f1805ab911f160849cc553?source=copy_link)
+* **Part 2: Bài 10 - Logistic Regression**
+    * [Link báo cáo Notion](https://www.notion.so/B-O-C-O-H-C-T-P-LOGISTIC-REGRESSION-P-D-NG-V-O-B-I-TO-N-D-O-N-X-C-SU-T-M-A-NG-Y-MAI-322001c683f180f4ac0ccd44f49cf376?source=copy_link)
+
+### II. Đọc hiểu và implement:
+* **Phần 3: Linear Regression (Trang 47)**
+    * [Báo cáo học tập & Bài tập thực hành](https://www.notion.so/B-O-C-O-H-C-T-P-TH-T-TO-N-LINEAR-REGRESSION-K-M-B-I-T-P-323001c683f18081b23aede7379ff120?source=copy_link)
+* **Phần 4: Logistic Regression (Trang 66)**
+    * [Báo cáo học tập & Bài tập thực hành](https://www.notion.so/B-O-C-O-H-C-T-P-LOGISTIC-REGRESSION-K-M-B-I-T-P-323001c683f1800b8f26f3d0bfe8f36d?source=copy_link)
